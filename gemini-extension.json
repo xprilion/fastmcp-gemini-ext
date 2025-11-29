@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "mcpServers": {
     "blender": {
-       "httpUrl": "http://localhost:8000", # <- replace with your deployment server URL
+       "httpUrl": "http://localhost:8000",
         "trust": true
     }
   }
