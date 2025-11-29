@@ -1,0 +1,10 @@
+{
+  "name": "todo-ext",
+  "version": "0.1.0",
+  "mcpServers": {
+    "blender": {
+       "httpUrl": "http://localhost:8000", # <- replace with your deployment server URL
+        "trust": true
+    }
+  }
+}
